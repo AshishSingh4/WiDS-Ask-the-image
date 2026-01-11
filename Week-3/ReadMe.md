@@ -1,14 +1,13 @@
-## 🗓️ Week 1 – Foundations of Computer Vision
+## 🗓️ Week 3 – Bridging CV + NLP for Image Captioning and Explainibility
 
 **Files**
-- `Week1_ass_1.ipynb`
-- `Week1_ass_2.ipynb`
+- `WEEK_3.ipynb`
 
 **Description**
-- Understanding the problem statement and objectives  
-- Exploring background concepts and requirements  
-- Initial setup and exploratory analysis  
-- Planning the approach for future implementation
+- Refining logic and improving performance  
+- Handling edge cases  
+- Evaluating results using suitable metrics  
+- Final analysis and observations
 
 **Outcome**
-A clear project roadmap and foundational understanding.
+A refined and stable version ready for review.
