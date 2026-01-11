@@ -1,11 +1,14 @@
-📍 Week 1 — Foundations of Computer Vision
-We begin with CV fundamentals and essential tools you need for understanding and processing images.
+## 🗓️ Week 1 – Foundations of Computer Vision
 
-Focus
-Understanding the problem statement and objectives
-Exploring background concepts and requirements
-Initial data exploration / setup
-Defining the approach and workflow for upcoming weeks
+**Files**
+- `Week1_ass_1.ipynb`
+- `Week1_ass_2.ipynb`
 
-Outcome
-A clear roadmap for the project with basic implementation groundwork completed.
+**Description**
+- Understanding the problem statement and objectives  
+- Exploring background concepts and requirements  
+- Initial setup and exploratory analysis  
+- Planning the approach for future implementation
+
+**Outcome**
+A clear project roadmap and foundational understanding.
