@@ -1,4 +1,4 @@
-## 🗓️ Week 2 – Core Development & Implementation
+## 🗓️ Week 2 – Foundations of NLP
 
 **Files**
 - `Week_2.ipynb`
